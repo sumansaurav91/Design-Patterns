@@ -22,8 +22,8 @@
        * Software architecture dictates what's going to be implemented and where it will be put.
         * While design pattern states how it should be done.
 * Before diving into the design patters, we should learn some basic design principles called SOLID.
-    * SRP - Single Responsibility Principle.
-    * OCP - Open / Closed Principle.
-    * LSP - Liskov Substitution Principle.
-    * ISP - Interface Segregation Principle.
-    * DIP - Dependancy Inversion Principle.
+    * SRP - [Single Responsibility Principle](https://github.com/sumansaurav91/Design-Patterns/blob/main/DesignPrinciples/DesignPrinciples.md)
+    * OCP - [Open / Closed Principle](https://github.com/sumansaurav91/Design-Patterns/blob/main/DesignPrinciples/DesignPrinciples.md)
+    * LSP - [Liskov Substitution Principle](https://github.com/sumansaurav91/Design-Patterns/blob/main/DesignPrinciples/DesignPrinciples.md)
+    * ISP - [Interface Segregation Principle](https://github.com/sumansaurav91/Design-Patterns/blob/main/DesignPrinciples/DesignPrinciples.md)
+    * DIP - [Dependancy Inversion Principle](https://github.com/sumansaurav91/Design-Patterns/blob/main/DesignPrinciples/DesignPrinciples.md)
